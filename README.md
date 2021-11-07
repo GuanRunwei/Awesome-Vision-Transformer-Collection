@@ -1,4 +1,4 @@
-# Vision-Transformer-Collection
+# __Awesome Vision Transformer__
 __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
 ## Backbone
