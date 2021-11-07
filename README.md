@@ -28,7 +28,6 @@ __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 * Line Segment Detection Using Transformers without Edges [paper](https://arxiv.org/abs/2101.01909)
 * End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
 * Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
-* 
 
 
 ## Tracking
