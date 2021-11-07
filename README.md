@@ -1,6 +1,9 @@
 # __Awesome Vision Transformer__
 __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
+author: Runwei Guan
+email: thinkerai@foxmail.com
+
 ## Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
