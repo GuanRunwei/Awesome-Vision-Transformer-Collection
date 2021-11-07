@@ -1,5 +1,5 @@
 # Vision-Transformer-Collection
-__Various variants of Vision Transformer and various Vision Transformers for downstream tasks__
+__Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
 ## Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
