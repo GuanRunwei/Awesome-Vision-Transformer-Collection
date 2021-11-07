@@ -1,4 +1,4 @@
-# __Vision Transformer Collection__
+# __Awesome Vision Transformer Collection__
 __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
 author: Runwei Guan
