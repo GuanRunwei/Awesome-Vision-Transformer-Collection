@@ -45,7 +45,6 @@ email: thinkerai@foxmail.com
 * End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
 * Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
-* 
 
 
 ## Tracking
