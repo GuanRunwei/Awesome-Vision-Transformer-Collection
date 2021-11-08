@@ -30,7 +30,7 @@ email: thinkerai@foxmail.com
 * Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2104.09224)
 
 ## Detection
-* YOLOS:You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
+* YOLOS: You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * WB-DETR: Transformer-Based Detector without Backbone [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)
 * DETR [paper](https://arxiv.org/abs/2005.12872) [code](https://github.com/facebookresearch/detr)
 * Rethinking Transformer-Based Set Prediction for Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.html)
