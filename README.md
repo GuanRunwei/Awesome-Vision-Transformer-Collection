@@ -30,6 +30,7 @@ email: thinkerai@foxmail.com
 * Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2104.09224)
 
 ## Detection
+* YOLOS:You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * WB-DETR: Transformer-Based Detector without Backbone [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)
 * DETR [paper](https://arxiv.org/abs/2005.12872) [code](https://github.com/facebookresearch/detr)
 * Rethinking Transformer-Based Set Prediction for Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.html)
@@ -39,6 +40,7 @@ email: thinkerai@foxmail.com
 * Adaptive Image Transformer for One-Shot Object Detection [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)
 * Improving 3D Object Detection With Channel-Wise Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.html)
 * TransPose: Keypoint Localization via Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)
+* Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/abs/2109.02497)
 
 ## Segmentation
 * MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers [paper](https://arxiv.org/abs/2012.00759) [code](https://github.com/google-research/deeplab2)
@@ -47,6 +49,7 @@ email: thinkerai@foxmail.com
 * Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
 * Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
+* SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
 
 
 ## Tracking
