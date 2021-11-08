@@ -8,7 +8,6 @@ email: thinkerai@foxmail.com
 ## Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
-* Point Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html)
 * ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * DVT [paper](https://arxiv.org/abs/2105.15075) [code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)
 * PVT [paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)
@@ -19,6 +18,8 @@ email: thinkerai@foxmail.com
 * BoTNet [paper](https://arxiv.org/abs/2101.11605)
 * Visformer: The Vision-Friendly Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Visformer_The_Vision-Friendly_Transformer_ICCV_2021_paper.html) [code](https://github.com/danczs/Visformer)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
+* Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
+* Point Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html)
 
 ## Transfer Learning
 * Pre-Trained Image Processing Transformer [paper](https://arxiv.org/abs/2012.00364) [code](https://github.com/huawei-noah/Pretrained-IPT)
@@ -45,6 +46,7 @@ email: thinkerai@foxmail.com
 * End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
 * Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
+* Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
 
 
 ## Tracking
