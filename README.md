@@ -40,8 +40,11 @@ email: thinkerai@foxmail.com
 ## Detection
 * YOLOS: You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
 * WB-DETR: Transformer-Based Detector without Backbone [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_WB-DETR_Transformer-Based_Detector_Without_Backbone_ICCV_2021_paper.html)
+* UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [paper](https://arxiv.org/abs/2011.09094)
+* TSP: Rethinking Transformer-based Set Prediction for Object Detection [paper](https://arxiv.org/abs/2011.10881)
 * DETR [paper](https://arxiv.org/abs/2005.12872) [code](https://github.com/facebookresearch/detr)
 * Rethinking Transformer-Based Set Prediction for Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.html)
+* End-to-End Object Detection with Adaptive Clustering Transformer [paper](https://arxiv.org/abs/2011.09315)
 * An End-to-End Transformer Model for 3D Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html)
 * End-to-End Human Object Interaction Detection with HOI Transformer [paper](https://arxiv.org/abs/2103.04503) [code](https://github.com/bbepoch/HoiTransformer)
 * Pose Recognition with Cascade Transformers [paper](https://arxiv.org/abs/2104.06976) [code](https://github.com/mlpc-ucsd/PRTR)
@@ -53,11 +56,16 @@ email: thinkerai@foxmail.com
 ## Segmentation
 * MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers [paper](https://arxiv.org/abs/2012.00759) [code](https://github.com/google-research/deeplab2)
 * Line Segment Detection Using Transformers without Edges [paper](https://arxiv.org/abs/2101.01909)
-* End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
-* Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
+* VisTR: End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
+* SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
 * Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
 * SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
+
+## Pose Estimation
+* Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation [paper](https://cse.buffalo.edu/~jsyuan/papers/2020/4836.pdf)
+* HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [paper](https://cse.buffalo.edu/~jsyuan/papers/2020/lin_mm20.pdf) 
+* End-to-End Human Pose and Mesh Reconstruction with Transformers [paper](https://arxiv.org/pdf/2012.09760.pdf) [code](https://github.com/microsoft/MeshTransformer)
 
 
 ## Tracking
@@ -72,6 +80,14 @@ email: thinkerai@foxmail.com
 
 ## Self-Supervised Learning
 * Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning [paper](https://arxiv.org/abs/2103.13061) [code](https://github.com/amzn/image-to-recipe-transformers)
+* iGPT [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [code](https://github.com/openai/image-gpt)
+* An Empirical Study of Training Self-Supervised Vision Transformers [paper](https://arxiv.org/abs/2104.02057) [code](https://github.com/facebookresearch/moco-v3)
+
+## Image Generation
+* Image Transformer [paper](https://arxiv.org/abs/1802.05751)
+* Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers)
+* TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up [code](https://github.com/VITA-Group/TransGAN)
+
 
 
 ## Explainable
