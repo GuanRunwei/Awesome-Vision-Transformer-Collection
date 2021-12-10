@@ -11,6 +11,7 @@ email: thinkerai@foxmail.com
 * ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * DVT [paper](https://arxiv.org/abs/2105.15075) [code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)
 * PVT [paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)
+* PiT [paper](https://arxiv.org/abs/2103.16302) [code](https://github.com/naver-ai/pit)
 * Twins [paper](https://arxiv.org/abs/2104.13840) [code](https://github.com/Meituan-AutoML/Twins)
 * TNT [paper](https://arxiv.org/abs/2103.00112) [code](https://github.com/lucidrains/transformer-in-transformer)
 * Mobile-ViT [paper](https://arxiv.org/abs/2110.02178?context=cs.LG) [code](https://github.com/chinhsuanwu/mobilevit-pytorch)
