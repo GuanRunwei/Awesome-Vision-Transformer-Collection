@@ -28,6 +28,7 @@ email: thinkerai@foxmail.com
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
 * Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
 * Point Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html)
+* Fast Point Transformer [paper](https://arxiv.org/abs/2112.04702)
 
 ## Transfer Learning
 * Pre-Trained Image Processing Transformer [paper](https://arxiv.org/abs/2012.00364) [code](https://github.com/huawei-noah/Pretrained-IPT)
@@ -53,6 +54,7 @@ email: thinkerai@foxmail.com
 * TransPose: Keypoint Localization via Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/abs/2109.02497)
 
+
 ## Segmentation
 * MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers [paper](https://arxiv.org/abs/2012.00759) [code](https://github.com/google-research/deeplab2)
 * Line Segment Detection Using Transformers without Edges [paper](https://arxiv.org/abs/2101.01909)
@@ -62,10 +64,12 @@ email: thinkerai@foxmail.com
 * Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
 * SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
 
+
 ## Pose Estimation
 * Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation [paper](https://cse.buffalo.edu/~jsyuan/papers/2020/4836.pdf)
 * HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [paper](https://cse.buffalo.edu/~jsyuan/papers/2020/lin_mm20.pdf) 
 * End-to-End Human Pose and Mesh Reconstruction with Transformers [paper](https://arxiv.org/pdf/2012.09760.pdf) [code](https://github.com/microsoft/MeshTransformer)
+* PE-former: Pose Estimation Transformer [paper](https://arxiv.org/abs/2112.04981)
 
 
 ## Tracking
@@ -96,3 +100,7 @@ email: thinkerai@foxmail.com
 
 ## Calibration 
 * CTRL-C: Camera Calibration TRansformer With Line-Classification [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_CTRL-C_Camera_Calibration_TRansformer_With_Line-Classification_ICCV_2021_paper.html) [code](https://github.com/jwlee-vcl/CTRL-C)
+
+## AI Medicine
+* Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
+* 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
