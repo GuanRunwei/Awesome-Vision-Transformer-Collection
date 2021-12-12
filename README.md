@@ -77,6 +77,7 @@ email: thinkerai@foxmail.com
 * Transformer Tracking [paper](https://arxiv.org/abs/2103.15436) [code](https://github.com/chenxin-dlut/TransT)
 * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking [paper](https://arxiv.org/abs/2103.11681) [code](https://arxiv.org/abs/2103.11681)
 * MOTR: End-to-End Multiple-Object Tracking with TRansformer [paper](https://arxiv.org/abs/2105.03247) [code](https://github.com/megvii-model/MOTR)
+* SwinTrack: A Simple and Strong Baseline for Transformer Tracking [paper](https://arxiv.org/abs/2112.00995)
 
 ## Generative Model
 * 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)
