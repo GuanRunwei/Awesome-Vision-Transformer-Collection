@@ -49,7 +49,6 @@ email: thinkerai@foxmail.com
 * End-to-End Object Detection with Adaptive Clustering Transformer [paper](https://arxiv.org/abs/2011.09315)
 * An End-to-End Transformer Model for 3D Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html)
 * End-to-End Human Object Interaction Detection with HOI Transformer [paper](https://arxiv.org/abs/2103.04503) [code](https://github.com/bbepoch/HoiTransformer)
-* Pose Recognition with Cascade Transformers [paper](https://arxiv.org/abs/2104.06976) [code](https://github.com/mlpc-ucsd/PRTR)
 * Adaptive Image Transformer for One-Shot Object Detection [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Adaptive_Image_Transformer_for_One-Shot_Object_Detection_CVPR_2021_paper.html)
 * Improving 3D Object Detection With Channel-Wise Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.html)
 * TransPose: Keypoint Localization via Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)
@@ -71,6 +70,7 @@ email: thinkerai@foxmail.com
 * HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [paper](https://cse.buffalo.edu/~jsyuan/papers/2020/lin_mm20.pdf) 
 * End-to-End Human Pose and Mesh Reconstruction with Transformers [paper](https://arxiv.org/pdf/2012.09760.pdf) [code](https://github.com/microsoft/MeshTransformer)
 * PE-former: Pose Estimation Transformer [paper](https://arxiv.org/abs/2112.04981)
+* Pose Recognition with Cascade Transformers [paper](https://arxiv.org/abs/2104.06976) [code](https://github.com/mlpc-ucsd/PRTR)
 
 
 ## Tracking
