@@ -25,19 +25,32 @@ email: thinkerai@foxmail.com
 * DeiT [paper](https://arxiv.org/pdf/2012.12877.pdf) [code](https://github.com/facebookresearch/deit)
 * CeiT [paper](https://arxiv.org/pdf/2103.11816.pdf) [code](https://github.com/rishikksh20/CeiT-pytorch)
 * BoTNet [paper](https://arxiv.org/abs/2101.11605) 
+* ViTAE [paper](https://arxiv.org/abs/2106.03348)
 * Visformer: The Vision-Friendly Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Visformer_The_Vision-Friendly_Transformer_ICCV_2021_paper.html) [code](https://github.com/danczs/Visformer)
+* Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training [paper](https://arxiv.org/abs/2112.03552)
+* Improved Multiscale Vision Transformers for Classification and Detection [paper](https://arxiv.org/abs/2112.01526)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
 * Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
 * Point Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html)
 * Fast Point Transformer [paper](https://arxiv.org/abs/2112.04702)
+* Adaptive Channel Encoding Transformer for Point Cloud Analysis [paper](https://arxiv.org/abs/2112.02507)
+
 
 ## Transfer Learning
 * Pre-Trained Image Processing Transformer [paper](https://arxiv.org/abs/2012.00364) [code](https://github.com/huawei-noah/Pretrained-IPT)
 * UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [paper](https://arxiv.org/abs/2011.09094) [code](https://github.com/dddzg/up-detr)
+* BEVT: BERT Pretraining of Video Transformers [paper](https://arxiv.org/abs/2112.01529)
 
 
-## Fusion
+## Multi-Modal
 * Multi-Modal Fusion Transformer for End-to-End Autonomous Driving [paper](https://arxiv.org/abs/2104.09224)
+* Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval [paper](https://arxiv.org/abs/2112.04446)
+* LAVT: Language-Aware Vision Transformer for Referring Image Segmentation [paper](https://arxiv.org/abs/2112.02244)
+* MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object  Detection [paper](https://arxiv.org/abs/2112.01177)
+* Visual-Semantic Transformer for Scene Text Recognition [paper](https://arxiv.org/abs/2112.00948)
+
+
+
 
 ## Detection
 * YOLOS: You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
@@ -54,6 +67,7 @@ email: thinkerai@foxmail.com
 * TransPose: Keypoint Localization via Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/abs/2109.02497)
 * Embracing Single Stride 3D Object Detector with Sparse Transformer [paper](https://arxiv.org/abs/2112.06375)
+* OW-DETR: Open-world Detection Transformer [paper](https://arxiv.org/abs/2112.01513)
 
 
 ## Segmentation
@@ -64,6 +78,8 @@ email: thinkerai@foxmail.com
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
 * Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
 * SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
+* GETAM: Gradient-weighted Element-wise Transformer Attention Map for  Weakly-supervised Semantic segmentation [paper](https://arxiv.org/abs/2112.02841)
+* Masked-attention Mask Transformer for Universal Image Segmentation [paper](https://arxiv.org/abs/2112.01527)
 
 
 ## Pose Estimation
@@ -72,6 +88,7 @@ email: thinkerai@foxmail.com
 * End-to-End Human Pose and Mesh Reconstruction with Transformers [paper](https://arxiv.org/pdf/2012.09760.pdf) [code](https://github.com/microsoft/MeshTransformer)
 * PE-former: Pose Estimation Transformer [paper](https://arxiv.org/abs/2112.04981)
 * Pose Recognition with Cascade Transformers [paper](https://arxiv.org/abs/2104.06976) [code](https://github.com/mlpc-ucsd/PRTR)
+* Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer [code](https://arxiv.org/abs/2112.02466)
 
 
 ## Tracking
@@ -80,21 +97,26 @@ email: thinkerai@foxmail.com
 * MOTR: End-to-End Multiple-Object Tracking with TRansformer [paper](https://arxiv.org/abs/2105.03247) [code](https://github.com/megvii-model/MOTR)
 * SwinTrack: A Simple and Strong Baseline for Transformer Tracking [paper](https://arxiv.org/abs/2112.00995)
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network [paper](https://arxiv.org/abs/2112.06624)
+* PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
 
 ## Generative Model
 * 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)
 * Spatial-Temporal Transformer for Dynamic Scene Graph Generation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cong_Spatial-Temporal_Transformer_for_Dynamic_Scene_Graph_Generation_ICCV_2021_paper.html)
 * THUNDR: Transformer-Based 3D Human Reconstruction With Markers [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zanfir_THUNDR_Transformer-Based_3D_Human_Reconstruction_With_Markers_ICCV_2021_paper.html)
+* DoodleFormer: Creative Sketch Drawing with Transformers [paper](https://arxiv.org/abs/2112.03258)
 
 ## Self-Supervised Learning
 * Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning [paper](https://arxiv.org/abs/2103.13061) [code](https://github.com/amzn/image-to-recipe-transformers)
 * iGPT [paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [code](https://github.com/openai/image-gpt)
 * An Empirical Study of Training Self-Supervised Vision Transformers [paper](https://arxiv.org/abs/2104.02057) [code](https://github.com/facebookresearch/moco-v3)
+* Self-supervised Video Transformer [paper](https://arxiv.org/abs/2112.01514)
+* TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning [paper](https://arxiv.org/abs/2112.01030)
 
 ## Image Generation
 * Image Transformer [paper](https://arxiv.org/abs/1802.05751)
 * Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers)
 * TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up [code](https://github.com/VITA-Group/TransGAN)
+* U2-Former: A Nested U-shaped Transformer for Image Restoration [paper](https://arxiv.org/abs/2112.02279)
 
 
 
