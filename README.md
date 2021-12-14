@@ -53,6 +53,7 @@ email: thinkerai@foxmail.com
 * Improving 3D Object Detection With Channel-Wise Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sheng_Improving_3D_Object_Detection_With_Channel-Wise_Transformer_ICCV_2021_paper.html)
 * TransPose: Keypoint Localization via Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_TransPose_Keypoint_Localization_via_Transformer_ICCV_2021_paper.html)
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/abs/2109.02497)
+* Embracing Single Stride 3D Object Detector with Sparse Transformer [paper](https://arxiv.org/abs/2112.06375)
 
 
 ## Segmentation
@@ -78,6 +79,7 @@ email: thinkerai@foxmail.com
 * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking [paper](https://arxiv.org/abs/2103.11681) [code](https://arxiv.org/abs/2103.11681)
 * MOTR: End-to-End Multiple-Object Tracking with TRansformer [paper](https://arxiv.org/abs/2105.03247) [code](https://github.com/megvii-model/MOTR)
 * SwinTrack: A Simple and Strong Baseline for Transformer Tracking [paper](https://arxiv.org/abs/2112.00995)
+* Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network [paper](https://arxiv.org/abs/2112.06624)
 
 ## Generative Model
 * 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)
@@ -106,3 +108,4 @@ email: thinkerai@foxmail.com
 ## AI Medicine
 * Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
 * 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
+* Hformer: Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks [paper](https://arxiv.org/abs/2112.05761)
