@@ -35,6 +35,9 @@ email: thinkerai@foxmail.com
 * Fast Point Transformer [paper](https://arxiv.org/abs/2112.04702)
 * Adaptive Channel Encoding Transformer for Point Cloud Analysis [paper](https://arxiv.org/abs/2112.02507)
 
+## Model Compression
+* A Unified Pruning Framework for Vision Transformers [paper](https://arxiv.org/abs/2111.15127)
+
 
 ## Transfer Learning
 * Pre-Trained Image Processing Transformer [paper](https://arxiv.org/abs/2012.00364) [code](https://github.com/huawei-noah/Pretrained-IPT)
@@ -131,3 +134,4 @@ email: thinkerai@foxmail.com
 * Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
 * 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
 * Hformer: Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks [paper](https://arxiv.org/abs/2112.05761)
+* MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification [paper](https://arxiv.org/abs/2112.01767)
