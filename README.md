@@ -30,6 +30,7 @@ email: thinkerai@foxmail.com
 * ViTAE [paper](https://arxiv.org/abs/2106.03348)
 * Visformer: The Vision-Friendly Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Visformer_The_Vision-Friendly_Transformer_ICCV_2021_paper.html) [code](https://github.com/danczs/Visformer)
 * Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training [paper](https://arxiv.org/abs/2112.03552)
+* AdaViT: Adaptive Tokens for Efficient Vision Transformer [paper](https://arxiv.org/abs/2112.07658)
 * Improved Multiscale Vision Transformers for Classification and Detection [paper](https://arxiv.org/abs/2112.01526)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
 * Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
@@ -45,6 +46,7 @@ email: thinkerai@foxmail.com
 * Pre-Trained Image Processing Transformer [paper](https://arxiv.org/abs/2012.00364) [code](https://github.com/huawei-noah/Pretrained-IPT)
 * UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [paper](https://arxiv.org/abs/2011.09094) [code](https://github.com/dddzg/up-detr)
 * BEVT: BERT Pretraining of Video Transformers [paper](https://arxiv.org/abs/2112.01529)
+* Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [paper](https://arxiv.org/abs/2112.07074)
 
 
 ## Multi-Modal
@@ -53,6 +55,7 @@ email: thinkerai@foxmail.com
 * LAVT: Language-Aware Vision Transformer for Referring Image Segmentation [paper](https://arxiv.org/abs/2112.02244)
 * MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object  Detection [paper](https://arxiv.org/abs/2112.01177)
 * Visual-Semantic Transformer for Scene Text Recognition [paper](https://arxiv.org/abs/2112.00948)
+* Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [paper](https://arxiv.org/abs/2112.07074)
 
 
 
@@ -94,6 +97,9 @@ email: thinkerai@foxmail.com
 * PE-former: Pose Estimation Transformer [paper](https://arxiv.org/abs/2112.04981)
 * Pose Recognition with Cascade Transformers [paper](https://arxiv.org/abs/2104.06976) [code](https://github.com/mlpc-ucsd/PRTR)
 * Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer [code](https://arxiv.org/abs/2112.02466)
+* Geometry-Contrastive Transformer for Generalized 3D Pose Transfer [paper](https://arxiv.org/abs/2112.07374)
+* Temporal Transformer Networks with Self-Supervision for Action Recognition [paper](https://arxiv.org/abs/2112.07338)
+* Co-training Transformer with Videos and Images Improves Action Recognition [paper](https://arxiv.org/abs/2112.07175)
 
 
 ## Tracking
