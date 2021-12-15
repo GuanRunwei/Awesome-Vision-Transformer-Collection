@@ -3,6 +3,8 @@ __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
 author: Runwei Guan
 
+affiliation: University of Liverpool / Xi'an Jiaotong-Liverpool University
+
 email: thinkerai@foxmail.com
 
 ## Backbone
