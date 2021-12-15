@@ -115,6 +115,11 @@ email: thinkerai@foxmail.com
 * Spatial-Temporal Transformer for Dynamic Scene Graph Generation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cong_Spatial-Temporal_Transformer_for_Dynamic_Scene_Graph_Generation_ICCV_2021_paper.html)
 * THUNDR: Transformer-Based 3D Human Reconstruction With Markers [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zanfir_THUNDR_Transformer-Based_3D_Human_Reconstruction_With_Markers_ICCV_2021_paper.html)
 * DoodleFormer: Creative Sketch Drawing with Transformers [paper](https://arxiv.org/abs/2112.03258)
+* Image Transformer [paper](https://arxiv.org/abs/1802.05751)
+* Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers)
+* TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up [code](https://github.com/VITA-Group/TransGAN)
+* U2-Former: A Nested U-shaped Transformer for Image Restoration [paper](https://arxiv.org/abs/2112.02279)
+
 
 ## Self-Supervised Learning
 * Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning [paper](https://arxiv.org/abs/2103.13061) [code](https://github.com/amzn/image-to-recipe-transformers)
@@ -122,13 +127,6 @@ email: thinkerai@foxmail.com
 * An Empirical Study of Training Self-Supervised Vision Transformers [paper](https://arxiv.org/abs/2104.02057) [code](https://github.com/facebookresearch/moco-v3)
 * Self-supervised Video Transformer [paper](https://arxiv.org/abs/2112.01514)
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning [paper](https://arxiv.org/abs/2112.01030)
-
-## Image Generation
-* Image Transformer [paper](https://arxiv.org/abs/1802.05751)
-* Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers)
-* TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up [code](https://github.com/VITA-Group/TransGAN)
-* U2-Former: A Nested U-shaped Transformer for Image Restoration [paper](https://arxiv.org/abs/2112.02279)
-
 
 
 ## Explainable
