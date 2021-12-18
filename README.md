@@ -7,7 +7,7 @@ affiliation: University of Liverpool / Xi'an Jiaotong-Liverpool University
 
 email: thinkerai@foxmail.com
 
-## Backbone
+## Image Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
 * ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
@@ -33,10 +33,21 @@ email: thinkerai@foxmail.com
 * AdaViT: Adaptive Tokens for Efficient Vision Transformer [paper](https://arxiv.org/abs/2112.07658)
 * Improved Multiscale Vision Transformers for Classification and Detection [paper](https://arxiv.org/abs/2112.01526)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
+
+
+
+## Point Cloud Processing
 * Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
 * Point Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html)
 * Fast Point Transformer [paper](https://arxiv.org/abs/2112.04702)
 * Adaptive Channel Encoding Transformer for Point Cloud Analysis [paper](https://arxiv.org/abs/2112.02507)
+* PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
+
+
+## Video Processing
+* Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
+
+
 
 ## Model Compression
 * A Unified Pruning Framework for Vision Transformers [paper](https://arxiv.org/abs/2111.15127)
@@ -100,6 +111,7 @@ email: thinkerai@foxmail.com
 * Geometry-Contrastive Transformer for Generalized 3D Pose Transfer [paper](https://arxiv.org/abs/2112.07374)
 * Temporal Transformer Networks with Self-Supervision for Action Recognition [paper](https://arxiv.org/abs/2112.07338)
 * Co-training Transformer with Videos and Images Improves Action Recognition [paper](https://arxiv.org/abs/2112.07175)
+* DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer [paper](https://arxiv.org/abs/2112.08775)
 
 
 ## Tracking
@@ -127,6 +139,7 @@ email: thinkerai@foxmail.com
 * An Empirical Study of Training Self-Supervised Vision Transformers [paper](https://arxiv.org/abs/2104.02057) [code](https://github.com/facebookresearch/moco-v3)
 * Self-supervised Video Transformer [paper](https://arxiv.org/abs/2112.01514)
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning [paper](https://arxiv.org/abs/2112.01030)
+* TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning [paper](https://arxiv.org/abs/2112.08643)
 
 
 ## Explainable
