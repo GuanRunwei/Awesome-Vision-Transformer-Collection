@@ -33,6 +33,7 @@ email: thinkerai@foxmail.com
 * AdaViT: Adaptive Tokens for Efficient Vision Transformer [paper](https://arxiv.org/abs/2112.07658)
 * Improved Multiscale Vision Transformers for Classification and Detection [paper](https://arxiv.org/abs/2112.01526)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
+* Towards End-to-End Image Compression and Analysis with Transformers [paper](https://arxiv.org/abs/2112.09300)
 
 
 
@@ -42,6 +43,7 @@ email: thinkerai@foxmail.com
 * Fast Point Transformer [paper](https://arxiv.org/abs/2112.04702)
 * Adaptive Channel Encoding Transformer for Point Cloud Analysis [paper](https://arxiv.org/abs/2112.02507)
 * PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
+* Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction [paper](https://arxiv.org/abs/2112.09385)
 
 
 ## Video Processing
@@ -121,8 +123,9 @@ email: thinkerai@foxmail.com
 * SwinTrack: A Simple and Strong Baseline for Transformer Tracking [paper](https://arxiv.org/abs/2112.00995)
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network [paper](https://arxiv.org/abs/2112.06624)
 * PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
+* Efficient Visual Tracking with Exemplar Transformers [paper](https://arxiv.org/abs/2112.09686)
 
-## Generative Model
+## Generative Model and Denoising
 * 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)
 * Spatial-Temporal Transformer for Dynamic Scene Graph Generation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cong_Spatial-Temporal_Transformer_for_Dynamic_Scene_Graph_Generation_ICCV_2021_paper.html)
 * THUNDR: Transformer-Based 3D Human Reconstruction With Markers [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zanfir_THUNDR_Transformer-Based_3D_Human_Reconstruction_With_Markers_ICCV_2021_paper.html)
@@ -131,6 +134,8 @@ email: thinkerai@foxmail.com
 * Taming Transformers for High-Resolution Image Synthesis [paper](https://arxiv.org/abs/2012.09841) [code](https://github.com/CompVis/taming-transformers)
 * TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up [code](https://github.com/VITA-Group/TransGAN)
 * U2-Former: A Nested U-shaped Transformer for Image Restoration [paper](https://arxiv.org/abs/2112.02279)
+* Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers [paper](https://arxiv.org/abs/2112.09685)
+* SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained  Siamese Transformers [paper](https://arxiv.org/abs/2112.09426)
 
 
 ## Self-Supervised Learning
