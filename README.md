@@ -48,7 +48,7 @@ email: thinkerai@foxmail.com
 
 ## Video Processing
 * Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
-
+* LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
 
 
 ## Model Compression
@@ -60,6 +60,8 @@ email: thinkerai@foxmail.com
 * UP-DETR: Unsupervised Pre-training for Object Detection with Transformers [paper](https://arxiv.org/abs/2011.09094) [code](https://github.com/dddzg/up-detr)
 * BEVT: BERT Pretraining of Video Transformers [paper](https://arxiv.org/abs/2112.01529)
 * Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [paper](https://arxiv.org/abs/2112.07074)
+* On Efficient Transformer and Image Pre-training for Low-level Vision [paper](https://arxiv.org/abs/2112.10175)
+* Pre-Training Transformers for Domain Adaptation [paper](https://arxiv.org/abs/2112.09965)
 
 
 ## Multi-Modal
@@ -89,6 +91,7 @@ email: thinkerai@foxmail.com
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/abs/2109.02497)
 * Embracing Single Stride 3D Object Detector with Sparse Transformer [paper](https://arxiv.org/abs/2112.06375)
 * OW-DETR: Open-world Detection Transformer [paper](https://arxiv.org/abs/2112.01513)
+* A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
 
 
 ## Segmentation
@@ -101,6 +104,7 @@ email: thinkerai@foxmail.com
 * SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
 * GETAM: Gradient-weighted Element-wise Transformer Attention Map for  Weakly-supervised Semantic segmentation [paper](https://arxiv.org/abs/2112.02841)
 * Masked-attention Mask Transformer for Universal Image Segmentation [paper](https://arxiv.org/abs/2112.01527)
+* A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
 
 
 ## Pose Estimation
@@ -136,6 +140,7 @@ email: thinkerai@foxmail.com
 * U2-Former: A Nested U-shaped Transformer for Image Restoration [paper](https://arxiv.org/abs/2112.02279)
 * Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers [paper](https://arxiv.org/abs/2112.09685)
 * SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained  Siamese Transformers [paper](https://arxiv.org/abs/2112.09426)
+* StyleSwin: Transformer-based GAN for High-resolution Image Generation [paper](https://arxiv.org/abs/2112.10762)
 
 
 ## Self-Supervised Learning
