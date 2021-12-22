@@ -34,6 +34,8 @@ email: thinkerai@foxmail.com
 * Improved Multiscale Vision Transformers for Classification and Detection [paper](https://arxiv.org/abs/2112.01526)
 * Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Multi-Scale_Vision_Longformer_A_New_Vision_Transformer_for_High-Resolution_Image_ICCV_2021_paper.html)
 * Towards End-to-End Image Compression and Analysis with Transformers [paper](https://arxiv.org/abs/2112.09300)
+* MPViT: Multi-Path Vision Transformer for Dense Prediction [paper](https://arxiv.org/abs/2112.11010)
+* Lite Vision Transformer with Enhanced Self-Attention [paper](https://arxiv.org/abs/2112.10809)
 
 
 
@@ -105,6 +107,8 @@ email: thinkerai@foxmail.com
 * GETAM: Gradient-weighted Element-wise Transformer Attention Map for  Weakly-supervised Semantic segmentation [paper](https://arxiv.org/abs/2112.02841)
 * Masked-attention Mask Transformer for Universal Image Segmentation [paper](https://arxiv.org/abs/2112.01527)
 * A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
+* iSegFormer: Interactive Image Segmentation with Transformers [paper](https://arxiv.org/abs/2112.11325)
+* SOIT: Segmenting Objects with Instance-Aware Transformers [paper](https://arxiv.org/abs/2112.11037)
 
 
 ## Pose Estimation
