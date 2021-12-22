@@ -102,7 +102,7 @@ email: thinkerai@foxmail.com
 * VisTR: End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
 * SETR: Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [paper](https://arxiv.org/abs/2012.15840) [code](https://github.com/fudan-zvg/SETR)
 * Segmenter: Transformer for Semantic Segmentation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.html)
-* Fully Transformer Networks for Semantic ImageSegmentation [paper](https://arxiv.org/abs/2106.04108)
+* Fully Transformer Networks for Semantic Image Segmentation [paper](https://arxiv.org/abs/2106.04108)
 * SOTR: Segmenting Objects with Transformers [paper](https://arxiv.org/abs/2108.06747) [code](https://github.com/easton-cau/SOTR)
 * GETAM: Gradient-weighted Element-wise Transformer Attention Map for  Weakly-supervised Semantic segmentation [paper](https://arxiv.org/abs/2112.02841)
 * Masked-attention Mask Transformer for Universal Image Segmentation [paper](https://arxiv.org/abs/2112.01527)
