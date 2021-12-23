@@ -37,6 +37,7 @@ email: thinkerai@foxmail.com
 * MPViT: Multi-Path Vision Transformer for Dense Prediction [paper](https://arxiv.org/abs/2112.11010)
 * Lite Vision Transformer with Enhanced Self-Attention [paper](https://arxiv.org/abs/2112.10809)
 * PolyViT: Co-training Vision Transformers on Images, Videos and Audio [paper](https://arxiv.org/abs/2111.12993)
+* MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation [paper](https://arxiv.org/abs/2112.11542)
 
 
 
