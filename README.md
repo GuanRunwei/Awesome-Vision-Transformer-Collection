@@ -10,7 +10,6 @@ email: thinkerai@foxmail.com
 ## Image Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
-* ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * DVT [paper](https://arxiv.org/abs/2105.15075) [code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)
 * PVT [paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)
 * PiT [paper](https://arxiv.org/abs/2103.16302) [code](https://github.com/naver-ai/pit)
@@ -51,6 +50,7 @@ email: thinkerai@foxmail.com
 
 
 ## Video Processing
+* ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
 * LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
 
