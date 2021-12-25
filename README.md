@@ -12,6 +12,7 @@ email: thinkerai@foxmail.com
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
 * DVT [paper](https://arxiv.org/abs/2105.15075) [code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)
 * PVT [paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)
+* Lite Vision Transformer: LVT [paper](https://arxiv.org/abs/2112.10809)
 * PiT [paper](https://arxiv.org/abs/2103.16302) [code](https://github.com/naver-ai/pit)
 * Twins [paper](https://arxiv.org/abs/2104.13840) [code](https://github.com/Meituan-AutoML/Twins)
 * TNT [paper](https://arxiv.org/abs/2103.00112) [code](https://github.com/lucidrains/transformer-in-transformer)
