@@ -39,6 +39,8 @@ email: thinkerai@foxmail.com
 * PolyViT: Co-training Vision Transformers on Images, Videos and Audio [paper](https://arxiv.org/abs/2111.12993)
 * MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation [paper](https://arxiv.org/abs/2112.11542)
 * ELSA: Enhanced Local Self-Attention for Vision Transformer [paper](https://arxiv.org/abs/2112.12786)
+* Vision Transformer for Small-Size Datasets [paper](https://arxiv.org/abs/2112.13492)
+* SimViT: Exploring a Simple Vision Transformer with sliding windows [paper](https://arxiv.org/abs/2112.13492)
 
 
 
@@ -55,6 +57,7 @@ email: thinkerai@foxmail.com
 * ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
 * LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
+* Video Joint Modelling Based on Hierarchical Transformer for Co-summarization [paper](https://arxiv.org/abs/2112.13478)
 
 
 ## Model Compression
@@ -100,6 +103,7 @@ email: thinkerai@foxmail.com
 * Embracing Single Stride 3D Object Detector with Sparse Transformer [paper](https://arxiv.org/abs/2112.06375)
 * OW-DETR: Open-world Detection Transformer [paper](https://arxiv.org/abs/2112.01513)
 * A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
+* Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence [paper](https://arxiv.org/abs/2112.13310)
 
 
 ## Segmentation
@@ -140,6 +144,7 @@ email: thinkerai@foxmail.com
 * PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
 * Efficient Visual Tracking with Exemplar Transformers [paper](https://arxiv.org/abs/2112.09686)
 
+
 ## Generative Model and Denoising
 * 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.html)
 * Spatial-Temporal Transformer for Dynamic Scene Graph Generation [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Cong_Spatial-Temporal_Transformer_for_Dynamic_Scene_Graph_Generation_ICCV_2021_paper.html)
@@ -152,6 +157,8 @@ email: thinkerai@foxmail.com
 * Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers [paper](https://arxiv.org/abs/2112.09685)
 * SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained  Siamese Transformers [paper](https://arxiv.org/abs/2112.09426)
 * StyleSwin: Transformer-based GAN for High-resolution Image Generation [paper](https://arxiv.org/abs/2112.10762)
+* Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction [paper](https://arxiv.org/abs/2112.13528)
+* SGTR: End-to-end Scene Graph Generation with Transformer [paper](https://arxiv.org/abs/2112.12970)
 
 
 ## Self-Supervised Learning
@@ -175,3 +182,5 @@ email: thinkerai@foxmail.com
 * 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
 * Hformer: Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks [paper](https://arxiv.org/abs/2112.05761)
 * MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification [paper](https://arxiv.org/abs/2112.01767)
+* MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of Pancreatic Cancer [paper](https://arxiv.org/abs/2112.13513)
+* Generalized Wasserstein Dice Loss, Test-time Augmentation, and Transformers for the BraTS 2021 challenge [paper](https://arxiv.org/abs/2112.13054)
