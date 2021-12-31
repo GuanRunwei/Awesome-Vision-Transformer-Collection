@@ -41,6 +41,7 @@ email: thinkerai@foxmail.com
 * ELSA: Enhanced Local Self-Attention for Vision Transformer [paper](https://arxiv.org/abs/2112.12786)
 * Vision Transformer for Small-Size Datasets [paper](https://arxiv.org/abs/2112.13492)
 * SimViT: Exploring a Simple Vision Transformer with sliding windows [paper](https://arxiv.org/abs/2112.13492)
+* SPViT: Enabling Faster Vision Transformers via Soft Token Pruning [paper](https://arxiv.org/abs/2112.13890)
 
 
 
@@ -82,6 +83,8 @@ email: thinkerai@foxmail.com
 * Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [paper](https://arxiv.org/abs/2112.07074)
 * LaTr: Layout-Aware Transformer for Scene-Text VQA [paper](https://arxiv.org/abs/2112.12494)
 * Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding [paper](https://arxiv.org/abs/2112.12180)
+* Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation [paper](https://arxiv.org/abs/2112.14088)
+* Extended Self-Critical Pipeline for Transforming Videos to Text (TRECVID-VTT Task 2021) -- Team: MMCUniAugsburg [paper](https://arxiv.org/abs/2112.14100)
 
 
 
@@ -120,6 +123,7 @@ email: thinkerai@foxmail.com
 * iSegFormer: Interactive Image Segmentation with Transformers [paper](https://arxiv.org/abs/2112.11325)
 * SOIT: Segmenting Objects with Instance-Aware Transformers [paper](https://arxiv.org/abs/2112.11037)
 * SeMask: Semantically Masked Transformers for Semantic Segmentation [paper](https://arxiv.org/abs/2112.12782)
+* Siamese Network with Interactive Transformer for Video Object Segmentation [paper](https://arxiv.org/abs/2112.13983)
 
 
 ## Pose Estimation
