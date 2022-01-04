@@ -111,6 +111,7 @@ email: thinkerai@foxmail.com
 * OW-DETR: Open-world Detection Transformer [paper](https://arxiv.org/abs/2112.01513)
 * A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
 * Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence [paper](https://arxiv.org/abs/2112.13310)
+* Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/pdf/2109.02497v2.pdf)
 
 
 ## Segmentation
