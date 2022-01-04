@@ -42,6 +42,8 @@ email: thinkerai@foxmail.com
 * Vision Transformer for Small-Size Datasets [paper](https://arxiv.org/abs/2112.13492)
 * SimViT: Exploring a Simple Vision Transformer with sliding windows [paper](https://arxiv.org/abs/2112.13492)
 * SPViT: Enabling Faster Vision Transformers via Soft Token Pruning [paper](https://arxiv.org/abs/2112.13890)
+* Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space [paper](https://arxiv.org/abs/2201.00814)
+* Vision Transformer with Deformable Attention [paper](https://arxiv.org/abs/2201.00520) [code](https://github.com/LeapLabTHU/DAT)
 
 
 
@@ -59,10 +61,12 @@ email: thinkerai@foxmail.com
 * Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
 * LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
 * Video Joint Modelling Based on Hierarchical Transformer for Co-summarization [paper](https://arxiv.org/abs/2112.13478)
+* InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer [paper](https://arxiv.org/abs/2112.15320)
 
 
 ## Model Compression
 * A Unified Pruning Framework for Vision Transformers [paper](https://arxiv.org/abs/2111.15127)
+* Multi-Dimensional Model Compression of Vision Transformer [paper](https://arxiv.org/abs/2201.00043)
 
 
 ## Transfer Learning
@@ -188,3 +192,5 @@ email: thinkerai@foxmail.com
 * MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification [paper](https://arxiv.org/abs/2112.01767)
 * MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of Pancreatic Cancer [paper](https://arxiv.org/abs/2112.13513)
 * Generalized Wasserstein Dice Loss, Test-time Augmentation, and Transformers for the BraTS 2021 challenge [paper](https://arxiv.org/abs/2112.13054)
+* D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation [paper](https://arxiv.org/abs/2201.00462)
+* RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark [paper](https://arxiv.org/abs/2201.00466)
