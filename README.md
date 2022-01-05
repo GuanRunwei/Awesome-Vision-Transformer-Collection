@@ -44,6 +44,7 @@ email: thinkerai@foxmail.com
 * SPViT: Enabling Faster Vision Transformers via Soft Token Pruning [paper](https://arxiv.org/abs/2112.13890)
 * Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space [paper](https://arxiv.org/abs/2201.00814)
 * Vision Transformer with Deformable Attention [paper](https://arxiv.org/abs/2201.00520) [code](https://github.com/LeapLabTHU/DAT)
+* PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture [paper](https://arxiv.org/abs/2201.00978)
 
 
 
@@ -112,6 +113,7 @@ email: thinkerai@foxmail.com
 * A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation [paper](https://arxiv.org/abs/2112.09747)
 * Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence [paper](https://arxiv.org/abs/2112.13310)
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/pdf/2109.02497v2.pdf)
+* Short Range Correlation Transformer for Occluded Person Re-Identification [paper](https://arxiv.org/abs/2201.01090)
 
 
 ## Segmentation
@@ -195,3 +197,4 @@ email: thinkerai@foxmail.com
 * Generalized Wasserstein Dice Loss, Test-time Augmentation, and Transformers for the BraTS 2021 challenge [paper](https://arxiv.org/abs/2112.13054)
 * D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation [paper](https://arxiv.org/abs/2201.00462)
 * RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark [paper](https://arxiv.org/abs/2201.00466)
+* Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images [paper](https://arxiv.org/abs/2201.01266)
