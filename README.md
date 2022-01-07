@@ -114,6 +114,7 @@ email: thinkerai@foxmail.com
 * Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence [paper](https://arxiv.org/abs/2112.13310)
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/pdf/2109.02497v2.pdf)
 * Short Range Correlation Transformer for Occluded Person Re-Identification [paper](https://arxiv.org/abs/2201.01090)
+* TransVPR: Transformer-based place recognition with multi-level attention aggregation [paper](https://arxiv.org/abs/2201.02001)
 
 
 ## Segmentation
@@ -170,6 +171,7 @@ email: thinkerai@foxmail.com
 * StyleSwin: Transformer-based GAN for High-resolution Image Generation [paper](https://arxiv.org/abs/2112.10762)
 * Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction [paper](https://arxiv.org/abs/2112.13528)
 * SGTR: End-to-end Scene Graph Generation with Transformer [paper](https://arxiv.org/abs/2112.12970)
+* Flow-Guided Sparse Transformer for Video Deblurring [paper](https://arxiv.org/abs/2201.01893)
 
 
 ## Self-Supervised Learning
