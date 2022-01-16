@@ -202,6 +202,7 @@ email: thinkerai@foxmail.com
 
 ## Radar
 * Learning class prototypes from Synthetic InSAR with Vision Transformers [paper](https://arxiv.org/abs/2201.03016)
+* Radar Transformer [paper](https://www.mdpi.com/1424-8220/21/11/3854)
 
 ## AI Medicine
 * Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
