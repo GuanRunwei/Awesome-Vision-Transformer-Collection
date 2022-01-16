@@ -45,6 +45,7 @@ email: thinkerai@foxmail.com
 * Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space [paper](https://arxiv.org/abs/2201.00814)
 * Vision Transformer with Deformable Attention [paper](https://arxiv.org/abs/2201.00520) [code](https://github.com/LeapLabTHU/DAT)
 * PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture [paper](https://arxiv.org/abs/2201.00978)
+* QuadTree Attention for Vision Transformers [paper](https://arxiv.org/abs/2201.02767) [code](https://github.com/Tangshitao/QuadtreeAttention)
 
 
 
@@ -63,6 +64,9 @@ email: thinkerai@foxmail.com
 * LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
 * Video Joint Modelling Based on Hierarchical Transformer for Co-summarization [paper](https://arxiv.org/abs/2112.13478)
 * InverseMV: Composing Piano Scores with a Convolutional Video-Music Transformer [paper](https://arxiv.org/abs/2112.15320)
+* TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers [paper](https://arxiv.org/abs/2201.05047)
+* Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [paper](https://arxiv.org/abs/2201.04676)
+* Multiview Transformers for Video Recognition [paper](https://arxiv.org/abs/2201.04288)
 
 
 ## Model Compression
@@ -90,6 +94,7 @@ email: thinkerai@foxmail.com
 * Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding [paper](https://arxiv.org/abs/2112.12180)
 * Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation [paper](https://arxiv.org/abs/2112.14088)
 * Extended Self-Critical Pipeline for Transforming Videos to Text (TRECVID-VTT Task 2021) -- Team: MMCUniAugsburg [paper](https://arxiv.org/abs/2112.14100)
+* On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering [paper](https://arxiv.org/abs/2201.03965)
 
 
 
@@ -115,6 +120,7 @@ email: thinkerai@foxmail.com
 * Voxel Transformer for 3D Object Detection [paper](https://arxiv.org/pdf/2109.02497v2.pdf)
 * Short Range Correlation Transformer for Occluded Person Re-Identification [paper](https://arxiv.org/abs/2201.01090)
 * TransVPR: Transformer-based place recognition with multi-level attention aggregation [paper](https://arxiv.org/abs/2201.02001)
+* Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond [paper](https://arxiv.org/abs/2201.03176)
 
 
 ## Segmentation
@@ -132,6 +138,8 @@ email: thinkerai@foxmail.com
 * SOIT: Segmenting Objects with Instance-Aware Transformers [paper](https://arxiv.org/abs/2112.11037)
 * SeMask: Semantically Masked Transformers for Semantic Segmentation [paper](https://arxiv.org/abs/2112.12782)
 * Siamese Network with Interactive Transformer for Video Object Segmentation [paper](https://arxiv.org/abs/2112.13983)
+* Pyramid Fusion Transformer for Semantic Segmentation [paper](https://arxiv.org/abs/2201.04019)
+* Swin transformers make strong contextual encoders for VHR image road extraction [paper](https://arxiv.org/abs/2201.03178)
 
 
 ## Pose Estimation
@@ -145,6 +153,7 @@ email: thinkerai@foxmail.com
 * Temporal Transformer Networks with Self-Supervision for Action Recognition [paper](https://arxiv.org/abs/2112.07338)
 * Co-training Transformer with Videos and Images Improves Action Recognition [paper](https://arxiv.org/abs/2112.07175)
 * DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer [paper](https://arxiv.org/abs/2112.08775)
+* Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition [paper](https://arxiv.org/abs/2201.02849)
 
 
 ## Tracking
@@ -190,6 +199,9 @@ email: thinkerai@foxmail.com
 ## Calibration 
 * CTRL-C: Camera Calibration TRansformer With Line-Classification [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_CTRL-C_Camera_Calibration_TRansformer_With_Line-Classification_ICCV_2021_paper.html) [code](https://github.com/jwlee-vcl/CTRL-C)
 
+## Radar
+* Learning class prototypes from Synthetic InSAR with Vision Transformers [paper](https://arxiv.org/abs/2201.03016)
+
 ## AI Medicine
 * Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
 * 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
@@ -200,3 +212,4 @@ email: thinkerai@foxmail.com
 * D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation [paper](https://arxiv.org/abs/2201.00462)
 * RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark [paper](https://arxiv.org/abs/2201.00466)
 * Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images [paper](https://arxiv.org/abs/2201.01266)
+* Swin Transformer for Fast MRI [paper](https://arxiv.org/abs/2201.03230) [code](https://github.com/ayanglab/SwinMR)
