@@ -125,6 +125,8 @@ email: thinkerai@foxmail.com
 
 
 ## Segmentation
+* Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation [paper](https://arxiv.org/pdf/1909.11065v6.pdf) [code](https://github.com/openseg-group/openseg.pytorch?v=2)
+* Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention [paper](https://arxiv.org/pdf/2201.01615v1.pdf) [code](https://github.com/yan-hao-tian/lawin)
 * MaX-DeepLab: End-to-End Panoptic Segmentation With Mask Transformers [paper](https://arxiv.org/abs/2012.00759) [code](https://github.com/google-research/deeplab2)
 * Line Segment Detection Using Transformers without Edges [paper](https://arxiv.org/abs/2101.01909)
 * VisTR: End-to-End Video Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2011.14503) [code](https://github.com/Epiphqny/VisTR)
