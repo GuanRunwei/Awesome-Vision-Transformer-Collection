@@ -59,6 +59,7 @@ email: thinkerai@foxmail.com
 
 
 ## Video Processing
+* Video Transformers: A Survey [paper](https://arxiv.org/abs/2201.05991)
 * ViViT: A Video Vision Transformer [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.html)
 * Vision Transformer Based Video Hashing Retrieval for Tracing the Source  of Fake Videos [paper](https://arxiv.org/abs/2112.08117)
 * LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach [paper](https://arxiv.org/abs/2112.10066)
@@ -81,6 +82,7 @@ email: thinkerai@foxmail.com
 * Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text [paper](https://arxiv.org/abs/2112.07074)
 * On Efficient Transformer and Image Pre-training for Low-level Vision [paper](https://arxiv.org/abs/2112.10175)
 * Pre-Training Transformers for Domain Adaptation [paper](https://arxiv.org/abs/2112.09965)
+* RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training [paper](https://arxiv.org/abs/2201.06857)
 
 
 ## Multi-Modal
@@ -143,6 +145,7 @@ email: thinkerai@foxmail.com
 * Siamese Network with Interactive Transformer for Video Object Segmentation [paper](https://arxiv.org/abs/2112.13983)
 * Pyramid Fusion Transformer for Semantic Segmentation [paper](https://arxiv.org/abs/2201.04019)
 * Swin transformers make strong contextual encoders for VHR image road extraction [paper](https://arxiv.org/abs/2201.03178)
+* Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
 
 
 ## Pose Estimation
@@ -193,6 +196,10 @@ email: thinkerai@foxmail.com
 * Self-supervised Video Transformer [paper](https://arxiv.org/abs/2112.01514)
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning [paper](https://arxiv.org/abs/2112.01030)
 * TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning [paper](https://arxiv.org/abs/2112.08643)
+* Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
+
+## Depth and Height Estimation
+* Disentangled Latent Transformer for Interpretable Monocular Height Estimation [paper](https://arxiv.org/abs/2201.06357)
 
 
 ## Explainable
@@ -206,6 +213,9 @@ email: thinkerai@foxmail.com
 * Learning class prototypes from Synthetic InSAR with Vision Transformers [paper](https://arxiv.org/abs/2201.03016)
 * Radar Transformer [paper](https://www.mdpi.com/1424-8220/21/11/3854)
 
+## Traffic
+* SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers [paper](https://arxiv.org/abs/2201.06390)
+
 ## AI Medicine
 * Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer [paper](https://arxiv.org/abs/2112.04894)
 * 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis [paper](https://arxiv.org/abs/2112.04863)
@@ -217,3 +227,8 @@ email: thinkerai@foxmail.com
 * RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark [paper](https://arxiv.org/abs/2201.00466)
 * Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images [paper](https://arxiv.org/abs/2201.01266)
 * Swin Transformer for Fast MRI [paper](https://arxiv.org/abs/2201.03230) [code](https://github.com/ayanglab/SwinMR)
+* Automatic Segmentation of Head and Neck Tumor: How Powerful Transformers Are? [paper](https://arxiv.org/abs/2201.06251)
+* ViTBIS: Vision Transformer for Biomedical Image Segmentation [paper](https://arxiv.org/abs/2201.05920)
+
+## Hardware
+* VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
