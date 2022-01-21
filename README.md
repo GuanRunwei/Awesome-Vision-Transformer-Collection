@@ -46,6 +46,7 @@ email: thinkerai@foxmail.com
 * Vision Transformer with Deformable Attention [paper](https://arxiv.org/abs/2201.00520) [code](https://github.com/LeapLabTHU/DAT)
 * PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture [paper](https://arxiv.org/abs/2201.00978)
 * QuadTree Attention for Vision Transformers [paper](https://arxiv.org/abs/2201.02767) [code](https://github.com/Tangshitao/QuadtreeAttention)
+* TerViT: An Efficient Ternary Vision Transformer [paper](https://arxiv.org/abs/2201.08050)
 
 
 
@@ -68,6 +69,7 @@ email: thinkerai@foxmail.com
 * TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers [paper](https://arxiv.org/abs/2201.05047)
 * Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [paper](https://arxiv.org/abs/2201.04676)
 * Multiview Transformers for Video Recognition [paper](https://arxiv.org/abs/2201.04288)
+* MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition [paper](https://arxiv.org/abs/2201.08383)
 
 
 ## Model Compression
