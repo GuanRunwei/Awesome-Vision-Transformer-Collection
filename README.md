@@ -231,6 +231,8 @@ email: thinkerai@foxmail.com
 * Swin Transformer for Fast MRI [paper](https://arxiv.org/abs/2201.03230) [code](https://github.com/ayanglab/SwinMR)
 * Automatic Segmentation of Head and Neck Tumor: How Powerful Transformers Are? [paper](https://arxiv.org/abs/2201.06251)
 * ViTBIS: Vision Transformer for Biomedical Image Segmentation [paper](https://arxiv.org/abs/2201.05920)
+* SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation [paper](https://arxiv.org/abs/2201.08582)
+* Improving Across-Dataset Brain Tissue Segmentation Using Transformer [paper](https://arxiv.org/abs/2201.08741)
 
 ## Hardware
 * VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
