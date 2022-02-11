@@ -99,6 +99,7 @@ email: thinkerai@foxmail.com
 * Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation [paper](https://arxiv.org/abs/2112.14088)
 * Extended Self-Critical Pipeline for Transforming Videos to Text (TRECVID-VTT Task 2021) -- Team: MMCUniAugsburg [paper](https://arxiv.org/abs/2112.14100)
 * On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering [paper](https://arxiv.org/abs/2201.03965)
+* DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers [paper](https://arxiv.org/abs/2202.04053)
 
 
 
@@ -162,9 +163,11 @@ email: thinkerai@foxmail.com
 * Co-training Transformer with Videos and Images Improves Action Recognition [paper](https://arxiv.org/abs/2112.07175)
 * DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer [paper](https://arxiv.org/abs/2112.08775)
 * Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition [paper](https://arxiv.org/abs/2201.02849)
+* Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
+* HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders [paper](https://arxiv.org/abs/2202.03548)
 
 
-## Tracking
+## Tracking and Trajectory Prediction
 * Transformer Tracking [paper](https://arxiv.org/abs/2103.15436) [code](https://github.com/chenxin-dlut/TransT)
 * Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking [paper](https://arxiv.org/abs/2103.11681) [code](https://arxiv.org/abs/2103.11681)
 * MOTR: End-to-End Multiple-Object Tracking with TRansformer [paper](https://arxiv.org/abs/2105.03247) [code](https://github.com/megvii-model/MOTR)
@@ -172,6 +175,7 @@ email: thinkerai@foxmail.com
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network [paper](https://arxiv.org/abs/2112.06624)
 * PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
 * Efficient Visual Tracking with Exemplar Transformers [paper](https://arxiv.org/abs/2112.09686)
+* TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer [paper](https://arxiv.org/abs/2202.03183)
 
 
 ## Generative Model and Denoising
@@ -189,6 +193,8 @@ email: thinkerai@foxmail.com
 * Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction [paper](https://arxiv.org/abs/2112.13528)
 * SGTR: End-to-end Scene Graph Generation with Transformer [paper](https://arxiv.org/abs/2112.12970)
 * Flow-Guided Sparse Transformer for Video Deblurring [paper](https://arxiv.org/abs/2201.01893)
+* Spherical Transformer [paper](https://arxiv.org/abs/2202.04942)
+* MaskGIT: Masked Generative Image Transformer [paper](https://arxiv.org/abs/2202.04200)
 
 
 ## Self-Supervised Learning
@@ -199,6 +205,8 @@ email: thinkerai@foxmail.com
 * TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning [paper](https://arxiv.org/abs/2112.01030)
 * TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning [paper](https://arxiv.org/abs/2112.08643)
 * Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
+* Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
+* Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics [paper](https://arxiv.org/abs/2202.03131)
 
 ## Depth and Height Estimation
 * Disentangled Latent Transformer for Interpretable Monocular Height Estimation [paper](https://arxiv.org/abs/2201.06357)
@@ -233,6 +241,7 @@ email: thinkerai@foxmail.com
 * ViTBIS: Vision Transformer for Biomedical Image Segmentation [paper](https://arxiv.org/abs/2201.05920)
 * SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation [paper](https://arxiv.org/abs/2201.08582)
 * Improving Across-Dataset Brain Tissue Segmentation Using Transformer [paper](https://arxiv.org/abs/2201.08741)
+* Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer [paper](https://arxiv.org/abs/2202.01857)
 
 ## Hardware
 * VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
