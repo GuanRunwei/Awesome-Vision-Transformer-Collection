@@ -195,6 +195,7 @@ email: thinkerai@foxmail.com
 * Flow-Guided Sparse Transformer for Video Deblurring [paper](https://arxiv.org/abs/2201.01893)
 * Spherical Transformer [paper](https://arxiv.org/abs/2202.04942)
 * MaskGIT: Masked Generative Image Transformer [paper](https://arxiv.org/abs/2202.04200)
+* Entroformer: A Transformer-based Entropy Model for Learned Image Compression
 
 
 ## Self-Supervised Learning
