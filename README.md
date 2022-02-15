@@ -47,6 +47,7 @@ email: thinkerai@foxmail.com
 * PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture [paper](https://arxiv.org/abs/2201.00978)
 * QuadTree Attention for Vision Transformers [paper](https://arxiv.org/abs/2201.02767) [code](https://github.com/Tangshitao/QuadtreeAttention)
 * TerViT: An Efficient Ternary Vision Transformer [paper](https://arxiv.org/abs/2201.08050)
+* BViT: Broad Attention based Vision Transformer [paper](https://arxiv.org/abs/2202.06268)
 
 
 
@@ -57,6 +58,8 @@ email: thinkerai@foxmail.com
 * Adaptive Channel Encoding Transformer for Point Cloud Analysis [paper](https://arxiv.org/abs/2112.02507)
 * PTTR: Relational 3D Point Cloud Object Tracking with Transformer [paper](https://arxiv.org/abs/2112.02857)
 * Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction [paper](https://arxiv.org/abs/2112.09385)
+* LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling [paper](https://arxiv.org/abs/2202.06263)
+* Geometric Transformer for Fast and Robust Point Cloud Registration [paper](https://arxiv.org/abs/2202.06688)
 
 
 ## Video Processing
@@ -70,6 +73,7 @@ email: thinkerai@foxmail.com
 * Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning [paper](https://arxiv.org/abs/2201.04676)
 * Multiview Transformers for Video Recognition [paper](https://arxiv.org/abs/2201.04288)
 * MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition [paper](https://arxiv.org/abs/2201.08383)
+* Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval [paper](https://arxiv.org/abs/2202.06014)
 
 
 ## Model Compression
@@ -149,6 +153,7 @@ email: thinkerai@foxmail.com
 * Pyramid Fusion Transformer for Semantic Segmentation [paper](https://arxiv.org/abs/2201.04019)
 * Swin transformers make strong contextual encoders for VHR image road extraction [paper](https://arxiv.org/abs/2201.03178)
 * Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
+* Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation [paper](https://arxiv.org/abs/2202.06498)
 
 
 ## Pose Estimation
@@ -217,6 +222,7 @@ email: thinkerai@foxmail.com
 ## Explainable
 * Development and testing of an image transformer for explainable autonomous driving systems [paper](https://arxiv.org/abs/2110.05559)
 * Transformer Interpretability Beyond Attention Visualization [paper](https://arxiv.org/abs/2012.09838) [code](https://github.com/hila-chefer/Transformer-Explainability)
+* How Do Vision Transformers Work? [paper](https://arxiv.org/abs/2202.06709)
 
 ## Robustness
 * Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding [paper](https://arxiv.org/abs/2111.08413)
@@ -247,6 +253,8 @@ email: thinkerai@foxmail.com
 * SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation [paper](https://arxiv.org/abs/2201.08582)
 * Improving Across-Dataset Brain Tissue Segmentation Using Transformer [paper](https://arxiv.org/abs/2201.08741)
 * Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer [paper](https://arxiv.org/abs/2202.01857)
+* Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers [paper](https://arxiv.org/abs/2202.06076)
+* AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation [paper](https://arxiv.org/abs/2202.06431)
 
 ## Hardware
 * VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
