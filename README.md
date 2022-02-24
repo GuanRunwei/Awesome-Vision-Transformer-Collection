@@ -5,7 +5,7 @@ author: Runwei Guan
 
 affiliation: University of Liverpool / Xi'an Jiaotong-Liverpool University
 
-email: thinkerai@foxmail.com
+email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk
 
 ## Image Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
@@ -131,6 +131,7 @@ email: thinkerai@foxmail.com
 * Short Range Correlation Transformer for Occluded Person Re-Identification [paper](https://arxiv.org/abs/2201.01090)
 * TransVPR: Transformer-based place recognition with multi-level attention aggregation [paper](https://arxiv.org/abs/2201.02001)
 * Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond [paper](https://arxiv.org/abs/2201.03176)
+* Arbitrary Shape Text Detection using Transformers [paper](https://arxiv.org/abs/2202.11221)
 
 
 ## Segmentation
@@ -170,6 +171,7 @@ email: thinkerai@foxmail.com
 * Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition [paper](https://arxiv.org/abs/2201.02849)
 * Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
 * HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders [paper](https://arxiv.org/abs/2202.03548)
+* ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers [paper](https://arxiv.org/abs/2202.11423)
 
 
 ## Tracking and Trajectory Prediction
@@ -213,6 +215,7 @@ email: thinkerai@foxmail.com
 * Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
 * Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
 * Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics [paper](https://arxiv.org/abs/2202.03131)
+* Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut [paper](https://arxiv.org/abs/2202.11539)
 
 ## Depth and Height Estimation
 * Disentangled Latent Transformer for Interpretable Monocular Height Estimation [paper](https://arxiv.org/abs/2201.06357)
