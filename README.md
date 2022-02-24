@@ -3,9 +3,9 @@ __Variants of Vision Transformer and Vision Transformer for Downstream Tasks__
 
 author: Runwei Guan
 
-affiliation: University of Liverpool / Xi'an Jiaotong-Liverpool University
+affiliation: University of Liverpool / JITRI-Institute of Deep Perception Technology
 
-email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk
+email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 
 ## Image Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
