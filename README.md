@@ -48,8 +48,14 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * QuadTree Attention for Vision Transformers [paper](https://arxiv.org/abs/2201.02767) [code](https://github.com/Tangshitao/QuadtreeAttention)
 * TerViT: An Efficient Ternary Vision Transformer [paper](https://arxiv.org/abs/2201.08050)
 * BViT: Broad Attention based Vision Transformer [paper](https://arxiv.org/abs/2202.06268)
+* CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction [paper](https://arxiv.org/abs/2203.04570)
+* EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers [paper](https://arxiv.org/abs/2203.03952)
+* Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention [paper](https://arxiv.org/abs/2203.03937)
+* Coarse-to-Fine Vision Transformer [paper](https://arxiv.org/abs/2203.03821)
+* ViT-P: Rethinking Data-efficient Vision Transformers from Locality [paper](https://arxiv.org/abs/2203.02358)
 
-
+## Multi-label Classification
+* Graph Attention Transformer Network for Multi-Label Image Classification [paper](https://arxiv.org/abs/2203.04049)
 
 ## Point Cloud Processing
 * Point Cloud Transformer [paper](https://arxiv.org/pdf/2012.09688.pdf)
@@ -74,11 +80,13 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Multiview Transformers for Video Recognition [paper](https://arxiv.org/abs/2201.04288)
 * MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition [paper](https://arxiv.org/abs/2201.08383)
 * Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval [paper](https://arxiv.org/abs/2202.06014)
+* A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection [paper](https://arxiv.org/abs/2203.04708)
 
 
 ## Model Compression
 * A Unified Pruning Framework for Vision Transformers [paper](https://arxiv.org/abs/2111.15127)
 * Multi-Dimensional Model Compression of Vision Transformer [paper](https://arxiv.org/abs/2201.00043)
+* Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression [paper](https://arxiv.org/abs/2203.02452)
 
 
 ## Transfer Learning
@@ -89,6 +97,8 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * On Efficient Transformer and Image Pre-training for Low-level Vision [paper](https://arxiv.org/abs/2112.10175)
 * Pre-Training Transformers for Domain Adaptation [paper](https://arxiv.org/abs/2112.09965)
 * RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training [paper](https://arxiv.org/abs/2201.06857)
+* Multiscale Convolutional Transformer with Center Mask Pretraining for Hyperspectral Image Classificationtion [paper](https://arxiv.org/abs/2203.04771)
+* DiT: Self-supervised Pre-training for Document Image Transformer [paper](https://arxiv.org/abs/2203.02378)
 
 
 ## Multi-Modal
@@ -104,6 +114,9 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Extended Self-Critical Pipeline for Transforming Videos to Text (TRECVID-VTT Task 2021) -- Team: MMCUniAugsburg [paper](https://arxiv.org/abs/2112.14100)
 * On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering [paper](https://arxiv.org/abs/2201.03965)
 * DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers [paper](https://arxiv.org/abs/2202.04053)
+* CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2203.04838)
+* VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer [paper](https://arxiv.org/abs/2203.04099)
+* Knowledge Amalgamation for Object Detection with Transformers [paper](https://arxiv.org/abs/2203.03187)
 
 
 
@@ -132,6 +145,9 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * TransVPR: Transformer-based place recognition with multi-level attention aggregation [paper](https://arxiv.org/abs/2201.02001)
 * Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond [paper](https://arxiv.org/abs/2201.03176)
 * Arbitrary Shape Text Detection using Transformers [paper](https://arxiv.org/abs/2202.11221)
+* A high-precision underwater object detection based on joint self-supervised deblurring and improved spatial transformer network [paper](https://arxiv.org/abs/2203.04822)
+* A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection [paper](https://arxiv.org/abs/2203.04708)
+* Knowledge Amalgamation for Object Detection with Transformers [paper](https://arxiv.org/abs/2203.03187)
 
 
 ## Segmentation
@@ -155,6 +171,8 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Swin transformers make strong contextual encoders for VHR image road extraction [paper](https://arxiv.org/abs/2201.03178)
 * Transformers in Action:Weakly Supervised Action Segmentation [paper](https://arxiv.org/abs/2201.05675)
 * Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation [paper](https://arxiv.org/abs/2202.06498)
+* Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2203.02664)
+* Contextual Attention Network: Transformer Meets U-Net [paper](https://arxiv.org/abs/2203.01932)
 
 
 ## Pose Estimation
@@ -172,6 +190,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
 * HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders [paper](https://arxiv.org/abs/2202.03548)
 * ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers [paper](https://arxiv.org/abs/2202.11423)
+* Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding [paper](https://arxiv.org/abs/2203.05156)
 
 
 ## Tracking and Trajectory Prediction
@@ -203,6 +222,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Spherical Transformer [paper](https://arxiv.org/abs/2202.04942)
 * MaskGIT: Masked Generative Image Transformer [paper](https://arxiv.org/abs/2202.04200)
 * Entroformer: A Transformer-based Entropy Model for Learned Image Compression [paper](https://arxiv.org/abs/2202.05492)
+* UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation [paper](https://arxiv.org/abs/2203.02557)
 
 
 ## Self-Supervised Learning
@@ -216,6 +236,10 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Motion-Aware Transformer For Occluded Person Re-identification [paper](https://arxiv.org/abs/2202.04243)
 * Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics [paper](https://arxiv.org/abs/2202.03131)
 * Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut [paper](https://arxiv.org/abs/2202.11539)
+* Monocular Robot Navigation with Self-Supervised Pretrained Vision Transformers [paper](https://arxiv.org/abs/2203.03682)
+* Multi-class Token Transformer for Weakly Supervised Semantic Segmentation [paper](https://arxiv.org/abs/2203.02891)
+* Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers [paper](https://arxiv.org/abs/2203.02664)
+* DiT: Self-supervised Pre-training for Document Image Transformer [paper](https://arxiv.org/abs/2203.02378)
 
 ## Depth and Height Estimation
 * Disentangled Latent Transformer for Interpretable Monocular Height Estimation [paper](https://arxiv.org/abs/2201.06357)
@@ -258,6 +282,8 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer [paper](https://arxiv.org/abs/2202.01857)
 * Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers [paper](https://arxiv.org/abs/2202.06076)
 * AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation [paper](https://arxiv.org/abs/2202.06431)
+* Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification [paper](https://arxiv.org/abs/2203.04614)
+* Characterizing Renal Structures with 3D Block Aggregate Transformers [paper](https://arxiv.org/abs/2203.02430)
 
 ## Hardware
 * VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
