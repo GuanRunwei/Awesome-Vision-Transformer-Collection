@@ -128,6 +128,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * TSP: Rethinking Transformer-based Set Prediction for Object Detection [paper](https://arxiv.org/abs/2011.10881)
 * DETR [paper](https://arxiv.org/abs/2005.12872) [code](https://github.com/facebookresearch/detr)
 * Deformable DETR [paper](https://arxiv.org/abs/2010.04159) [code](https://github.com/fundamentalvision/Deformable-DETR)
+* DN-DETR: Accelerate DETR Training by Introducing Query DeNoising [paper](https://arxiv.org/abs/2203.01305) [code](https://github.com/FengLi-ust/DN-DETR)
 * Rethinking Transformer-Based Set Prediction for Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Sun_Rethinking_Transformer-Based_Set_Prediction_for_Object_Detection_ICCV_2021_paper.html)
 * End-to-End Object Detection with Adaptive Clustering Transformer [paper](https://arxiv.org/abs/2011.09315)
 * An End-to-End Transformer Model for 3D Object Detection [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.html)
