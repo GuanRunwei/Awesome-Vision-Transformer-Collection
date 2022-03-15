@@ -53,6 +53,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention [paper](https://arxiv.org/abs/2203.03937)
 * Coarse-to-Fine Vision Transformer [paper](https://arxiv.org/abs/2203.03821)
 * ViT-P: Rethinking Data-efficient Vision Transformers from Locality [paper](https://arxiv.org/abs/2203.02358)
+* MPViT [paper](https://arxiv.org/abs/2112.11010)
 
 ## Multi-label Classification
 * Graph Attention Transformer Network for Multi-Label Image Classification [paper](https://arxiv.org/abs/2203.04049)
