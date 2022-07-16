@@ -10,6 +10,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 ## Image Backbone
 * Vision Transformer [paper](https://arxiv.org/abs/2010.11929) [code](https://github.com/google-research/vision_transformer)
 * Swin Transformer [paper](https://arxiv.org/abs/2103.14030) [code](https://github.com/microsoft/Swin-Transformer)
+* Swin Transformer V2: Scaling Up Capacity and Resolution [paper](https://arxiv.org/abs/2111.09883) [code](https://github.com/microsoft/Swin-Transformer)
 * DVT [paper](https://arxiv.org/abs/2105.15075) [code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)
 * PVT [paper](https://arxiv.org/abs/2102.12122) [code](https://github.com/whai362/PVT)
 * Lite Vision Transformer: LVT [paper](https://arxiv.org/abs/2112.10809)
@@ -56,7 +57,10 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * MPViT: Multi-Path Vision Transformer for Dense Prediction [paper](https://arxiv.org/abs/2112.11010)
 * Event Transformer [paper](https://arxiv.org/abs/2204.05172)
 * DaViT: Dual Attention Vision Transformers [paper](https://arxiv.org/abs/2204.03645)
-
+* LightViT: Towards Light-Weight Convolution-Free Vision Transformers [paper](https://arxiv.org/abs/2207.05557)
+* UniNet: Unified Architecture Search with Convolution, Transformer, and MLP [paper](https://arxiv.org/abs/2207.05420)
+* Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning [paper](https://arxiv.org/abs/2207.04978)
+* EdgeNeXt: Efficiently Amalgamated CNN-Transformer Architecture for Mobile Vision Applications [paper](https://arxiv.org/abs/2206.10589)
 
 
 ## Multi-label Classification
@@ -128,6 +132,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Knowledge Amalgamation for Object Detection with Transformers [paper](https://arxiv.org/abs/2203.03187)
 * Are Multimodal Transformers Robust to Missing Modality? [paper](https://arxiv.org/abs/2204.05454)
 * Self-supervised Vision Transformers for Joint SAR-optical Representation Learning [paper](https://arxiv.org/abs/2204.05381)
+* Video Graph Transformer for Video Question Answering [paper](https://arxiv.org/abs/2207.05342)
 
 
 
@@ -164,6 +169,9 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection [paper](https://arxiv.org/abs/2204.05585)
 * POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition [paper](https://arxiv.org/abs/2204.04083)
 * PSTR: End-to-End One-Step Person Search With Transformers [paper](https://arxiv.org/abs/2204.03340)
+* Scaling Novel Object Detection with Weakly Supervised Detection Transformers [paper](https://arxiv.org/abs/2207.05205)
+* OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2207.02255)
+* Exploring Plain Vision Transformer Backbones for Object Detection [paper](https://arxiv.org/abs/2203.16527)
 
 
 
@@ -271,12 +279,14 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 ## Depth and Height Estimation
 * Disentangled Latent Transformer for Interpretable Monocular Height Estimation [paper](https://arxiv.org/abs/2201.06357)
 * Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics [paper](https://arxiv.org/abs/2202.03131)
+* SiaTrans: Siamese Transformer Network for RGB-D Salient Object Detection with Depth Image Classification [paper](https://arxiv.org/abs/2207.04224)
 
 
 ## Explainable
 * Development and testing of an image transformer for explainable autonomous driving systems [paper](https://arxiv.org/abs/2110.05559)
 * Transformer Interpretability Beyond Attention Visualization [paper](https://arxiv.org/abs/2012.09838) [code](https://github.com/hila-chefer/Transformer-Explainability)
 * How Do Vision Transformers Work? [paper](https://arxiv.org/abs/2202.06709)
+* eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation [paper](https://arxiv.org/abs/2207.05358)
 
 ## Robustness
 * Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding [paper](https://arxiv.org/abs/2111.08413)
@@ -309,12 +319,14 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * ViTBIS: Vision Transformer for Biomedical Image Segmentation [paper](https://arxiv.org/abs/2201.05920)
 * SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation [paper](https://arxiv.org/abs/2201.08582)
 * Improving Across-Dataset Brain Tissue Segmentation Using Transformer [paper](https://arxiv.org/abs/2201.08741)
-* Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer [paper](https://arxiv.org/abs/2202.01857)
+* Brain Cancer Survival Prediction on Treatment-naive MRI using Deep Anchor Attention Learning with Vision Transformer [paper](https://arxiv.org/abs/2202.01857)
 * Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers [paper](https://arxiv.org/abs/2202.06076)
 * AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation [paper](https://arxiv.org/abs/2202.06431)
 * Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification [paper](https://arxiv.org/abs/2203.04614)
 * Characterizing Renal Structures with 3D Block Aggregate Transformers [paper](https://arxiv.org/abs/2203.02430)
 * Multimodal Transformer for Nursing Activity Recognition [paper](https://arxiv.org/abs/2204.04564)
+* RTN: Reinforced Transformer Network for Coronary CT Angiography Vessel-level Image Quality Assessment [paper](https://arxiv.org/abs/2207.06177)
+* Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays [paper](https://arxiv.org/abs/2207.04394)
 
 ## Hardware
 * VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer [paper](https://arxiv.org/abs/2201.06618)
