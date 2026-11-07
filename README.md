@@ -93,7 +93,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection [paper](https://arxiv.org/abs/2203.04708)
 * Learning Trajectory-Aware Transformer for Video Super-Resolution [paper](https://arxiv.org/abs/2204.04216)
 * Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer [paper](https://arxiv.org/abs/2204.03638)
-
+* [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) (arXiv 2026) [[code]](https://github.com/MCG-NJU/VideoChat3)
 
 ## Model Compression
 * A Unified Pruning Framework for Vision Transformers [paper](https://arxiv.org/abs/2111.15127)
@@ -133,10 +133,9 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Are Multimodal Transformers Robust to Missing Modality? [paper](https://arxiv.org/abs/2204.05454)
 * Self-supervised Vision Transformers for Joint SAR-optical Representation Learning [paper](https://arxiv.org/abs/2204.05381)
 * Video Graph Transformer for Video Question Answering [paper](https://arxiv.org/abs/2207.05342)
-
-
-
-
+* [MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276) (arXiv 2026) [[code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+* [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) (arXiv 2026) [[code]](https://github.com/MCG-NJU/VideoJev)
+* [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://proceedings.mlr.press/v306/zeng26y.html) (ICML 2026) [[code]](https://github.com/MCG-NJU/Video-o3)
 
 ## Detection
 * YOLOS: You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection [paper](https://arxiv.org/abs/2106.00666) [code](https://github.com/dk-liang/Awesome-Visual-Transformer)
@@ -172,9 +171,7 @@ email: thinkerai@foxmail.com / Runwei.Guan@liverpool.ac.uk / guanrunwei@idpt.org
 * Scaling Novel Object Detection with Weakly Supervised Detection Transformers [paper](https://arxiv.org/abs/2207.05205)
 * OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers [paper](https://arxiv.org/abs/2207.02255)
 * Exploring Plain Vision Transformer Backbones for Object Detection [paper](https://arxiv.org/abs/2203.16527)
-
-
-
+* [Dual DETRs for Multi-Label Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html) (CVPR 2024)
 
 ## Segmentation
 * Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation [paper](https://arxiv.org/pdf/1909.11065v6.pdf) [code](https://github.com/openseg-group/openseg.pytorch?v=2)
